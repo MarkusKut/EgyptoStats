@@ -1,0 +1,39 @@
+---
+title: "Landlisten"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 2
+    #code_folding: hide
+---
+
+
+# Shiny-App
+
+
+
+
+
+
+
+
+# Beschreibung
+
+Die Landlisten informieren über Besitzer von Grundbesitz im hermopolitischen Nomos, die im „Phrouriou Libos“ in Hermopolis selbst und im benachbarten Antinoopolis wohnten. Die Listen bestehen aus den Papyri <a href='http://papyri.info/ddbdp/p.herm.landl;;I'>P.Herm. Landl. 1</a> (= P.Giss. I 117 = P.Giss.inv. 4 A–H = G) und <a href='https://papyri.info/ddbdp/p.herm.landl;;AnhangI'>P.Herm. Landl. 2</a> (= P.Flor. I 71 = F), die in die Zeit nach ca. 346/7 n. Chr. datiert werden können. Die Eintragungen sind nach Anfangsbuchstaben der Personen in alphabetischer Reihenfolge, separat für die beiden Wohnorte, eingetragen. Außerdem werden der Pagus (durchnummerierte Bezirke), der Status als Privat- oder Staatsland und die Größe in Aruren (1 Arure = 2756 m²) angegeben. Zur Unterscheidung der Personen wird der Vatername und/oder Beruf erwähnt.In den Papyri ist in allen Pagi, außer dem 7., Besitz eingetragen, da dort vermutlich Hermopolis selbst lag und es möglicherweise eine eigene Landliste für die Stadt gab. Durch diese Papyri lassen sich zum einen Rückschlüsse auf die Gesellschaftsstruktur in Hermopolis im 4. Jh. n. Chr. ziehen und zum anderen Genealogien aufstellen, wie es für Aurelia Charite und die Familie des Hyperechios gilt, die auch durch andere Quellen bekannt sind. In den beiden Städten gab es viele Beamte und Militärs. Es lässt sich feststellen, dass der größte Teil der Fläche Privatland war und die Anzahl der Landbesitzer sehr hoch war. Das Land war äußerst ungleich verteilt: Nur vier Familien besaßen etwa 36% des gesamten Landes, während die Stadtbewohner zusammen ungefähr 25–30% des Landes in Hermopolites hielten. Außerdem war der Großteil des Landes um die Stadt Hermopolis konzentriert.
+
+
+## Literatur
+
+<ul>
+                      <li>R. S. Bagnall, Landholding in late Roman Egypt: the distribution of wealth, in: JRS 82, 1992, 128-149.</li>
+                      <li>A. K. Bowman, Landholding in the Hermopolite nome in the fourth century A.D, in: JRS 75, 1985, 137-163.</li>
+                      <li>M. Lewuillon-Blume, Enquête sur les registres fonciers (P. Landlisten): essai sur les titres et professions, in: CdE 60 Fasc. 119-120, 1985, 138-146.</li>
+                      <li>M. Lewuillon-Blume, Enquête sur les registres fonciers (PLandl.): la repartition de la propriété et les familles de propriétaires, in: B. G. Mandilaras (Hrsg.), Proceedings of the XVIII International Congress of Papyrology: Athens 25-31 May 1986. Volume II, Athen 1988, 279-286.</li>
+                      <li>P. J. Sijpesteijn, K. A. Worp,  Zwei Landlisten aus dem Hermupolites (P. Landlisten) (Studia Amstelodamensia ad epigraphicam, ius antiquum et papyrologicam pertinentia 7), Zutphen 1978.</li>
+                      </ul>
+                      
+                      
+                      
