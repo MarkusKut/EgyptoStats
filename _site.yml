@@ -6,6 +6,6 @@ navbar:
       href: index.html
     - text: "Landlisten"
       href: Landlisten.html
-    - text: "Links"
-      href: Links.html
+    - text: "Nilstände"
+      href: Nilstaende.html
 output_dir: "docs"
