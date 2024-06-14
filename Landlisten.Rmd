@@ -4,16 +4,17 @@ output:
   html_document:
     toc: true
     toc_float: true
-    collapsed: false
+    collapsed: true
     number_sections: false
     toc_depth: 2
     #code_folding: hide
 ---
 
 
-# Shiny-App
 
-
+```{r, out.width =  "100%", echo=FALSE}
+knitr::include_app("https://markus-kutschka.shinyapps.io/landlisten/", height = "500px")
+```
 
 
 
