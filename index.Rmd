@@ -3,6 +3,7 @@ title: "EgyptoStats"
 output: html_document
 ---
 
+```{=html}
 <style type="text/css">
 .title {
   display: none;
@@ -13,10 +14,13 @@ output: html_document
 }
 
 </style>
-
+```
 <div class="row" style="padding-top: 30px;">
+
 <div class="col-sm-6">
 
 # **EgyptoStats**
 
+This is a site of all projects by Markus Kutschka, combining statistical analysis in Egyptology.
 
+![](images/EgyotoStatsLogo.png){width="215"}
