@@ -8,4 +8,6 @@ navbar:
       href: Landlisten.html
     - text: "Nilstände"
       href: Nilstaende.html
+    - text: "Journal"
+      href: Journal.html
 output_dir: "docs"
