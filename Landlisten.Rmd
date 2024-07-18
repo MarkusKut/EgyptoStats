@@ -18,7 +18,9 @@ knitr::include_app("https://markus-kutschka.shinyapps.io/landlisten/", height = 
 
 
 
+Nach: 
 
+<a href='https://www.hermopolis.gwi.uni-muenchen.de/die-landlisten-von-hermopolis/'>https://www.hermopolis.gwi.uni-muenchen.de/die-landlisten-von-hermopolis/</a>
 
 
 # Beschreibung
