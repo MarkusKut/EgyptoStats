@@ -23,4 +23,4 @@ output: html_document
 
 This is a site of all projects by Markus Kutschka, combining statistical analysis in Egyptology.
 
-![](images/EgyotoStatsLogo.png){width="215"}
+![](images/EgyotoStatsLogo.png)
