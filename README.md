@@ -1,6 +1,6 @@
 # EgyptoStats
 
-"EgyptoStats" is a website for all my projects concerning statistical analysis in Egyptology.
+"EgyptoStats" (https://markuskut.github.io/EgyptoStats/) is a website for all my projects concerning statistical analysis in Egyptology.
 
 ## The Hermopolitan land lists  
 
